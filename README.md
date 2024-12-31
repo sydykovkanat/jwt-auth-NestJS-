@@ -1,6 +1,6 @@
 ## Description
 
-        JWT Authentication Template on [Nest](https://github.com/nestjs/nest).
+JWT Authentication Template on [Nest](https://github.com/nestjs/nest).
 
 ## Project setup
 
